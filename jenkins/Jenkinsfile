@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Mensaje') {
             steps {
-                echo 'Hello world!, Fernando'
+                echo 'This is the ticket 001 :-) '
             }
         }
     }
